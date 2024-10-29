@@ -6,7 +6,7 @@ This project is developed by:
 3. Abhyuday Tripathi
 
 ## Overview
-The Crop Yield Prediction System is a machine learning project designed to predict the yield of various crops based on historical agricultural data. This system focuses on factors such as average rainfall, pesticide use, average temperature, area of land, and specific crop items, particularly in the context of India.
+The Crop Yield Prediction System is a machine learning project designed to predict the yield of various crops based on historical agricultural data. This system focuses on factors such as average rainfall, pesticide use, average temperature, country and specific crop items
 ## Table of Contents
 
 - [Features](#features)
