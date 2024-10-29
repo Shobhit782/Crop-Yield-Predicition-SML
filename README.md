@@ -71,6 +71,6 @@ c. Decision Tree – A versatile model that learns data patterns through a tree 
 8. Model Selection Based on R² Score and Accuracy:
 Compared the models based on performance metrics such as R² score and MAE to select the best-performing model. This ensures that the final model provides reliable predictions, critical for agricultural planning and resource allocation.
 
-Used KNN as our final model to predict with a R² score of 0.98
+Used KNN as our final model to predict with a R² score of 0.98675
 
 
