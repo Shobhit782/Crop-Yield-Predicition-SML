@@ -16,10 +16,10 @@ The Crop Yield Prediction System is a machine learning project designed to predi
 
 ## Features
 
-- Predict crop yield based on input parameters.
-- Machine Learning Algorithm analysis using Linear, Lasso, Ridge Regression, K-nearest-neighbors, Decision Tree.
+- Predict crop yield based on input parameters
+- Machine Learning Algorithm analysis using Linear, Lasso, Ridge Regression, K-nearest-neighbors, Decision Tree
 - Macine Learning Model using KNN
-- Visualization for better understanding.
+- Visualization for better understanding
 
 ## Technologies Used
 
