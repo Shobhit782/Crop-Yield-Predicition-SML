@@ -29,7 +29,6 @@ The Crop Yield Prediction System is a machine learning project designed to predi
 - Scikit-learn
 - Matplotlib
 - Seaborn
-- Seaborn
 - Jupyter Notebook
 
 ## Dataset
