@@ -12,7 +12,7 @@ The Crop Yield Prediction System is a machine learning project designed to predi
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Dataset](#dataset)
-- 
+- [Structured Workflow](#Workflow)
 
 ## Features
 
