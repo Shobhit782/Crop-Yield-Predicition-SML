@@ -16,9 +16,8 @@ The Crop Yield Prediction System is a machine learning project designed to predi
 ## Features
 
 - Predict crop yield based on input parameters.
-- User-friendly interface for data input.
-- Machine learning model using decision trees.
-- Visualization of decision trees for better understanding.
+- Machine learning model using KNN
+- Visualization for better understanding.
 
 ## Technologies Used
 
@@ -42,4 +41,16 @@ The project uses a dataset named `yield_df.csv`, which contains historical crop 
 - Average Rainfall (mm)
 - Pesticide Use (liters per hectare)
 - Average Temperature (°C)
+
+## Procedure
+Training Multiple Models:
+o	Trained different models to find the most accurate predictor. Models include:
+	Linear Regression, Lasso, and Ridge – Basic regression models that help predict yield based on input features.
+	K-Nearest Neighbors (KNN) Classifier – A non-parametric method used for both classification and regression.
+	Decision Tree – A versatile model that learns data patterns through a tree structure, capturing non-linear relationships.
+
+Model Selection Based on R² Score and Accuracy:
+o	Compared the models based on performance metrics such as R² score and accuracy to select the best-performing model. This ensures that the final model provides reliable predictions, critical for agricultural planning and resource allocation.
+Used KNN as our final model to predict
+
 
