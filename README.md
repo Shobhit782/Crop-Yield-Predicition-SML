@@ -5,7 +5,7 @@ This project is developed by:
 2. Shobhit Choudhury
 3. Abhyuday Tripathi
 
-Deployed at : https://cropyieldprediction2-eeglqaly.b4a.run/predict
+Deployed at : https://cropyieldprediction2-eeglqaly.b4a.run/
 
 ## Overview
 The Crop Yield Prediction System is a machine learning project designed to predict the yield of various crops based on historical agricultural data. This system focuses on factors such as average rainfall, pesticide use, average temperature, country and specific crop items
