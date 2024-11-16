@@ -7,8 +7,8 @@ print(sklearn.__version__)
 app = Flask(__name__)
 
 # Load your model and preprocessor
-dtr = pickle.load(open(r'c:/Computer Science Docs/Python/Crop-Yield-Prediction-Using-Machin-Learning-Python-main/Crop-Yield-Prediction-Using-Machin-Learning-Python-main/dtr.pkl', 'rb'))
-preprocessor = pickle.load(open(r'c:/Computer Science Docs/Python/Crop-Yield-Prediction-Using-Machin-Learning-Python-main/Crop-Yield-Prediction-Using-Machin-Learning-Python-main/preprocessor.pkl', 'rb'))
+dtr = pickle.load(open('dtr.pkl', 'rb'))
+preprocessor = pickle.load(open('preprocessor.pkl', 'rb'))
 
 @app.route('/')
 def index():
